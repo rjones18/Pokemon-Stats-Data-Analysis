@@ -33,7 +33,6 @@ In main series pokemon games, kids and adults alike catch pokemon and battle gym
 ## Important Links
 
 * [Final Report Notebook](report.ipynb)
-* [EDA Notebook](eda.ipynb)
 * [My Source Data](https://www.kaggle.com/abcsds/pokemon?select=Pokemon.csv)
 
 
