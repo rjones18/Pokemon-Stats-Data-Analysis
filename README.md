@@ -2,7 +2,11 @@
 
 ## Introduction
 
-In main series pokemon games, kids and adults alike catch pokemon and battle gym leaders to become pokemon master! With over 800 pokemon in some games, the team combinations and strategies are limitless. You must understand a pokemon stats to predict how they will perform in battle and to create a powerful team. I have obatined data on all pokemons stats from Genration 1 to Genration 6 or the Pokemon X and Pokemon Y games that came out in October 12, 2013 on the Nintendo 3ds. The goal of my project is to analyze the data within the Pokemon Stats csv, and determine what top 10 pokemon have the best total stats in each generation. This analysis will help even the most novice of players make the best team no matter what generation they are playing.
+The main series Pokemon games have captured the imaginations of kids and adults alike with their endless possibilities for catching and training Pokemon to become a Pokemon master. With over 800 Pokemon available in some games, the combinations and strategies for creating a powerful team are virtually limitless. In order to be successful in the game, players must have a deep understanding of each Pokemon's unique stats and abilities in order to predict their performance in battle.
+
+To help players create the most effective teams, I obtained a comprehensive dataset on all Pokemon stats from Generation 1 to Generation 6, including the Pokemon X and Pokemon Y games released in October 2013 for the Nintendo 3DS. The goal of my project was to analyze this data and determine the top 10 Pokemon with the best total stats in each generation. By identifying the most powerful Pokemon in each generation, players of all skill levels can make more informed decisions about which Pokemon to include on their teams, regardless of which game they are playing.
+
+This data analysis project required a deep understanding of statistics and data analysis techniques, as well as a strong familiarity with the Pokemon franchise and its gameplay mechanics. By leveraging advanced data analysis tools and techniques, I was able to identify the top 10 Pokemon with the best total stats in each generation, helping players of all skill levels to achieve success in the game.
 
 <img src="/images/preview.gif" align="right" width="32%"/>
 
